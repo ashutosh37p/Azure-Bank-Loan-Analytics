@@ -170,11 +170,11 @@ Relationships were created between fact and dimension tables inside Power BI.
 
 ## Summary Dashboard
 
-![Summary Dashboard](Images/Bank%20Loan%20Summary.png)
+![Loan Report Dashboard](Images/Bank%20Loan%20Report.png)
 
 ## Overview Dashboard
 
-![Loan Report Dashboard](Images/Bank%20Loan%20Report.png)
+![Summary Dashboard](Images/Bank%20Loan%20Summary.png)
 
 ## Details Dashboard
 
