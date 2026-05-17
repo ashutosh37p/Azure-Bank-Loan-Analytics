@@ -44,6 +44,7 @@ Azure SQL Database
 ↓
 Power BI Dashboard
 
+![Architecture Diagram](Architecture/architecture.png)
 ---
 
 # Tools & Technologies Used
