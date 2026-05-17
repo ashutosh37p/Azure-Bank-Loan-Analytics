@@ -170,15 +170,15 @@ Relationships were created between fact and dimension tables inside Power BI.
 
 ## Summary Dashboard
 
-(Add summary dashboard screenshot here)
+![Summary Dashboard](Images/summary_dashboard.png)
 
 ## Overview Dashboard
 
-(Add overview dashboard screenshot here)
+![Overview Dashboard](Images/overview_dashboard.png)
 
 ## Details Dashboard
 
-(Add details dashboard screenshot here)
+![Details Dashboard](Images/details_dashboard.png)
 
 ---
 
